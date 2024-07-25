@@ -1,7 +1,0 @@
-artifacts
-cache
-node_modules
-*.log
-.env
-.contract
-.wallet
